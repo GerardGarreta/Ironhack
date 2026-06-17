@@ -1,3 +1,0 @@
-date
-whoami
-uname -a
